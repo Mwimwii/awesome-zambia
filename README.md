@@ -4,22 +4,16 @@
   </a>
 </p>
 
-<h1 align="center">awesome-shadcn/ui</h1>
+<h1 align="center">awesome-zambia</h1>
 
 <p align="center">
-  A curated list of awesome things related to <a href="https://ui.shadcn.com/" target="_blank">shadcn/ui</a>
+  A curated list of awesome things related to Zambian Tech</a>
 </p>
 
 <p align="center">
-  <i>Created by <a href="https://birobirobiro.dev/" target="_blank">birobirobiro.dev</a></i><br>
-  <i>Site by <a href="https://bankkroll.xyz/" target="_blank">bankkroll.xyz</a></i>
+  <i>Created by <a href="https://github.com/mwimwii" target="_blank">Mwila</a></i><br>
 </p>
 
-<p align="center">
-  <a href="https://awesome-shadcn-ui.vercel.app/" target="_blank">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
-  </a>
-</p>
 
 ## Libs and Components
 
